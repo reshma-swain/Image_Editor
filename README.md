@@ -4,5 +4,5 @@ A simple Image Editor to perform the following task :
 2. Contrast Adjustment
 3. Blur/Noise Control
 
-using #tech_stack such as :
+using Tech-Stack such as :
 Python, Numpy and OpenCV 
